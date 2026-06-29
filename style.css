@@ -17,3 +17,19 @@ nav a{
   text-decoration:none;
   color:#333;
 }
+
+.mainvisual{
+    height:500px;
+    background:#d8c3a5;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    text-align:center;
+}
+
+.mainvisual h2{
+    font-size:48px;
+    margin-bottom:20px;
+}
