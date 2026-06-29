@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px 40px;
+  background:#f5ead8;
+}
+
+nav a{
+  margin-left:20px;
+  text-decoration:none;
+  color:#333;
+}
