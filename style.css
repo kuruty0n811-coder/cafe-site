@@ -61,3 +61,18 @@ nav a{
 .menu-card h3{
     margin:15px 0 10px;
 }
+
+/* フッター */
+
+footer{
+    background:#5b3a29;
+    color:#ffffff;
+    text-align:center;
+    padding:30px 20px;
+    margin-top:80px;
+}
+
+footer p{
+    font-size:14px;
+    letter-spacing:1px;
+}
